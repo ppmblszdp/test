@@ -23,10 +23,10 @@ export default hopeTheme({
 
   // navbar
   navbar,
-
+  
   // sidebar
   sidebar,
-
+  fullscreen: true,
   footer: "默认页脚",
 
   displayFooter: true,
@@ -80,7 +80,7 @@ export default hopeTheme({
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
-
+  
   plugins: {
     blog: true,
 
