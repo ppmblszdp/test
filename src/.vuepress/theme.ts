@@ -13,7 +13,7 @@ export default hopeTheme({
     url: "https://mister-hope.com",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: ["fontawesome-with-brands","//at.alicdn.com/t/c/font_4336534_zmu2qf3qcl8.css"],
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
